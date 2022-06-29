@@ -1,5 +1,5 @@
 # add ci-cd steps here
-name: DVC-NLP-project-with-Docs
+name: dvc-nlp-project-with-docs
 
 on: [push]
 

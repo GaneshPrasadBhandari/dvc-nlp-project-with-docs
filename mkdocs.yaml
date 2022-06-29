@@ -9,8 +9,8 @@ site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: GaneshPrasadBhandari/dvc-project-template
-repo_url: https://github.com//GaneshPrasadBhandari/dvc-project-template
+repo_name: GaneshPrasadBhandari/dvc-nlp-project-with-docs
+repo_url: https://github.com//GaneshPrasadBhandari/dvc-nlp-project-with-docs
 
 # Configuration
 theme:

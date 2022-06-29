@@ -4,7 +4,9 @@ dvc
 pandas
 numpy
 PyYAML
-
+scipy
+scikit-learn
 mkdocs-material
+lxml
 ### local packages -
-# -e . # << uncomment this to install from setup.py
+-e . # << uncomment this to install from setup.py

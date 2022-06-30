@@ -1,5 +1,5 @@
 # Project information
-site_name: dvc-project-template
+site_name: dvc-project-with-docs
 # defeine TOC or order of website-
 nav:
   - Home: index.md

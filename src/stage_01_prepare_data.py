@@ -39,7 +39,7 @@ def main(config_path, params_path):
     train_data_path = os.path.join(prepare_data_dir_path, artifacts["TRAIN_DATA"])
     test_data_path = os.path.join(prepare_data_dir_path, artifacts["TEST_DATA"])
 
-    encode = "utf-8"
+    encode = "utf8"
 
     with open(source_data_path, encoding = encode) as fd_in: #actual input data that we are reading
         with open(train_data_path, "w", encoding = encode) as fd_out_train: #writing the train data

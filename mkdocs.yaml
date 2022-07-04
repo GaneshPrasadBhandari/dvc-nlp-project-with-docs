@@ -41,12 +41,10 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/GaneshPrasadBhandari
-    - icon: fontawesome/brands/twitter
-      link: 
+    
     - icon: fontawesome/brands/linkedin
-      link: 
-    - icon: fontawesome/brands/instagram
       link: www.linkedin.com/in/ganesh-prasad-bhandari-b165b9187
+     
 
 extra_javascript:
   - javascripts/mathjax.js

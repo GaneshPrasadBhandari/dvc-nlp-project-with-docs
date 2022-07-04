@@ -1,6 +1,6 @@
 # My First Page
-# dvc-project-template
-DVC project template1
+# dvc-nlp-project-with-docs
+DVC NLP project template
 
 ## STEPS -
 

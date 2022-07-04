@@ -6,7 +6,7 @@ nav:
   - data-prep-stage: data_prep.md
 
 site_author: Ganesh Prasad Bhandari
-site_description: >-
+#site_description: >-
   DESCRIPTION
 
 # Repository

@@ -26,7 +26,7 @@ def main(config_path, params_path):
     source_data_file = config["source_data"]["data_file"]
     source_data_path = os.path.join(source_data_dir, source_data_file)
 
-    split = params["prepare"]["split"] # split ration
+    split = params["prepare"]["split"] # split ratio
     seed = params["prepare"]["seed"]
    
     random.seed(seed)

@@ -4,6 +4,8 @@ site_name: dvc-nlp-project-with-docs
 nav:
   - Home: index.md
   - data-prep-stage: data_prep.md
+  - Featurization: featurization.md
+
 
 site_author: Ganesh Prasad Bhandari
 #site_description: >-

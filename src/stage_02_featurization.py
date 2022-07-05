@@ -66,7 +66,7 @@ def main(config_path, params_path):
     test_words_binary_matrix = bag_of_words.transform(test_words)
     test_words_tfidf_matrix = tfidf.transform(test_words_binary_matrix)
 
-
+    #call a function to save this matrix
 
 
 if __name__ == '__main__':
